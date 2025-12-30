@@ -35,3 +35,6 @@ Chacune contenant un switch, un point d’accès Wi‑Fi, un PC portable connect
 6. Tests
    - J’ai effectué des pings entre deux machines d’un même VLAN pour vérifier la connexion entre eux.
    - J’ai ensuite testé des pings entre des machines de VLAN différents (un PC fixe du bureau 1 / VLAN 20 vers le Bureau 3 / VLAN 10 PC Portable) pour vérifier le routage inter‑VLAN via le routeur.
+  
+   - Vous trouverez toutes les captures d'écrans ainsi que toutes les config du switch et du routeur dans les piéces jointes.
+
